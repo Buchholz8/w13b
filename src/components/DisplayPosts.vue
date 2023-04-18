@@ -32,12 +32,12 @@ export default {
         {
           content: `The ocean is very big`,
           user: `User_Number_1`,
-          date_created: `02 - 20 - 2023`
+          date_created: `14 - 02 - 2023`
         },
         {
           content: `there are many animals in the ocean`,
           user: `User_Number_2`,
-          date_created: `02 - 12 - 2022`
+          date_created: `25 - 12 - 2022`
         },
       ],
     };
