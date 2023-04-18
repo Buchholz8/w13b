@@ -21,12 +21,12 @@ export default {
           {
             content: `The ocean is very big`,
             user: `User_Number_1`,
-            date_creeated: 02 - 20 - 2023,
+            date_creeated:`02 - 20 - 2023`,
           },
           {
             content: `there are many animals in the ocean`,
             user: `User_Number_2`,
-            date_creeated: 02 - 12 - 2022,
+            date_creeated: `02 - 12 - 2022`,
           },
         ],
       };
