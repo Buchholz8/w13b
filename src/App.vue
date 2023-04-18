@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <display-posts></display-posts>
+  <display-posts></display-posts>
   </div>
 </template>
 
